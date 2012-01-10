@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Receivers ListTemplateId="107">
+      <Receiver>
+        <Name>TaskItemSendEmailReceiverItemUpdating</Name>
+        <Type>ItemUpdating</Type>
+        <Assembly>$SharePoint.Project.AssemblyFullName$</Assembly>
+        <Class>Schaeflein.Community.AdviseOneAnother.ItemReceivers.TaskItemSendEmailReceiver</Class>
+        <SequenceNumber>10000</SequenceNumber>
+      </Receiver>
+
+  </Receivers>
+</Elements>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feature xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="79ba0924-009d-47ce-85d7-3470cdc05662" activateOnDefault="false" description="Enhance all Tasks lists with fields for emailing custom messages." featureId="79ba0924-009d-47ce-85d7-3470cdc05662" imageUrl="Schaeflein.Community/SchaefleinConsultingFeatureIcon.png" imageAltText="Feature from Schaeflein Consulting (http://www.schaeflein.net/)" receiverAssembly="$SharePoint.Project.AssemblyFullName$" receiverClass="$SharePoint.Type.18473a2a-2bbe-4aa1-ad71-ed782aca08c1.FullName$" solutionId="00000000-0000-0000-0000-000000000000" title="Schaeflein.Community: AdviseOneAnother (A1A) - Bind to Tasks" version="" deploymentPath="$SharePoint.Project.FileNameWithoutExtension$_$SharePoint.Feature.FileNameWithoutExtension$" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/FeatureModel">
+  <projectItems>
+    <projectItemReference itemId="1c235ac9-ee7e-40a5-8624-47229dd801cb" />
+  </projectItems>
+</feature>
